@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\commands",
+    "\\src\\commands\\anime",
+    "\\src\\commands\\economy",
+    "\\src\\commands\\economy\\sub",
+    "\\src\\commands\\moderation",
+    "\\src\\commands\\ticket",
+    "\\src\\commands\\utility"
+  ],
+  "SelectedNode": "\\config.js",
+  "PreviewInSolutionExplorer": false
+}
