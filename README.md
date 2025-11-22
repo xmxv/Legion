@@ -10,7 +10,7 @@ Written in Node.js
 
 This repository is OLD, I wrote this over 2 years ago during covid. 
 
-The original base used was a pretty basic bot with 10-20 commands. This version is a modular bot with 100+ commands. 
+The original base used was a pretty basic bot with 10-20 commands that I took from some open source project on github. This version is an improved modular bot with 100+ commands. 
 
 Dashboard was ripped from another repo and I never bothered getting it to work with my bot. If you end up using this, you will need to update it to work with the new discord.js version + update some of the code to respect the new bot development TOS. 
 
